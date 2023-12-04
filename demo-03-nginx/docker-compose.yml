@@ -1,0 +1,5 @@
+services:
+  nginx:
+    image: nginx:latest
+    labels:
+      - dev.orbstack.domains=nginx.custom.local
