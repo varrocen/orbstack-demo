@@ -120,8 +120,7 @@ orb stop k8s
 orb delete k8s
 ```
 
-URLs:
-* http://k8s.orb.local/
+URL: http://k8s.orb.local/
 
 ## Demo 07
 
@@ -137,4 +136,4 @@ sudo apt install nginx
 sudo systemctl start nginx
 ```
 
-URL : http://ubuntu.orb.local
+URL: http://ubuntu.orb.local/
