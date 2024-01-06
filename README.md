@@ -6,7 +6,7 @@ Commands:
 
 ```
 sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder
-docker system prune --all --volumes
+docker system prune --all
 docker volume prune --all
 ```
 
@@ -137,6 +137,4 @@ sudo apt install nginx
 sudo systemctl start nginx
 ```
 
-URL : h
-
-demo-05-build-multi-platforms/getting-started-app
+URL : http://ubuntu.orb.local
